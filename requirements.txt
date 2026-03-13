@@ -1,0 +1,7 @@
+aiortc>=1.6.0
+aiohttp>=3.9.0
+cryptography>=42.0
+zstandard>=0.22
+brotli>=1.1
+lz4>=4.3
+numpy>=1.24
