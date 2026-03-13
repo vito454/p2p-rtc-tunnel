@@ -168,13 +168,15 @@ brotli>=1.1
 lz4>=4.3
 ```
 
-## Pryor art
+## Prior art
 
 There are several projects in this league. For example:
 
 https://sourceforge.net/projects/steganrtp/
 
-The idea is not new, but the difference here is it could be enhanced.
+These kind of ideas are not new, but the difference here is it could be enhanced, extended.
+
+> For example:  working in a Distributed Signaling Algoritjm (DSA) to avoid STUN/TURN servers. Or working in Multilayer Steganography...
 
 ## TODO and future work
 
