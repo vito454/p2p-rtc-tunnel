@@ -218,7 +218,7 @@ https://sourceforge.net/projects/steganrtp/
 
 These kind of ideas are not new, but the difference here is it could be enhanced, extended.
 
-> For example:  working in a Distributed Signaling Algoritjm (DSA) to avoid STUN/TURN servers. Or working in Multilayer Steganography...
+> For example:  working in a Distributed Signaling Algorithm (DSA) to avoid STUN/TURN servers. Or working in Multilayer Steganography...
 
 ## TODO and future work
 
